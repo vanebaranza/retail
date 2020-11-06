@@ -3,3 +3,4 @@ from stores
 where type = 'restaurant'
 and deleted_at is null
 and store_brand_id = 123
+and is_marketplace = 'true'
