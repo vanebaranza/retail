@@ -1,3 +1,4 @@
 select *
 from stores
 where type = 'restaurant'
+and deleted_at is null
