@@ -5,3 +5,5 @@ and deleted_at is null
 
 and name = 'Subway'
 and store_brand_id = 123
+and store_brand_id = 123
+and is_marketplace = 'true'
