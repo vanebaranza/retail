@@ -7,3 +7,4 @@ and name = 'Subway'
 and store_brand_id = 123
 and store_brand_id = 123
 and is_marketplace = 'true'
+Porque si
